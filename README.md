@@ -3,21 +3,21 @@
 <img src="assets/banner.gif" width="100%" alt="Prashant Raj banner" />
 
 <a href="https://iprashantraj.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=22&pause=1200&color=FF6B35&background=00000000&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Hi%2C+I'm+Prashant+Raj;3rd+Year+CSE+Student+from+Ranchi;Building+AI+Automations;Night+Owl+-+Just+Vibes%2C+No+Coffee;One+Day+At+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=22&pause=1200&color=FABD2F&background=00000000&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Hi%2C+I'm+Prashant+Raj;3rd+Year+CSE+Student+from+Ranchi;Building+AI+Automations;Night+Owl+-+Just+Vibes%2C+No+Coffee;One+Day+At+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://instagram.com/iprashantraj"><img src="https://img.shields.io/badge/Instagram-FF6B35?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/iprashantraj_"><img src="https://img.shields.io/badge/X-1B1464?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://linkedin.com/in/iprashantraj"><img src="https://img.shields.io/badge/LinkedIn-7B2FBE?style=for-the-badge&logoColor=white" /></a>
-<a href="https://dev.to/iprashantraj"><img src="https://img.shields.io/badge/Dev.to-FF6B35?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://iprashantraj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1B1464?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://instagram.com/iprashantraj"><img src="https://img.shields.io/badge/Instagram-fe8019?style=for-the-badge&logo=instagram&logoColor=282828" /></a>
+<a href="https://twitter.com/iprashantraj_"><img src="https://img.shields.io/badge/X-32302f?style=for-the-badge&logo=x&logoColor=ebdbb2" /></a>
+<a href="https://linkedin.com/in/iprashantraj"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=for-the-badge&logoColor=282828" /></a>
+<a href="https://dev.to/iprashantraj"><img src="https://img.shields.io/badge/Dev.to-fabd2f?style=for-the-badge&logo=devdotto&logoColor=282828" /></a>
+<a href="https://iprashantraj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8ec07c?style=for-the-badge&logo=vercel&logoColor=282828" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/iprashantraj?style=for-the-badge&color=FF6B35&labelColor=1B1464&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/iprashantraj?style=for-the-badge&color=7B2FBE&labelColor=1B1464&label=STARS" />
+<img src="https://img.shields.io/github/followers/iprashantraj?style=for-the-badge&color=fe8019&labelColor=504945&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/iprashantraj?style=for-the-badge&color=8ec07c&labelColor=504945&label=STARS" />
 
 </div>
 
@@ -48,37 +48,37 @@
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/TypeScript-FF6B35?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FF6B35?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FF6B35?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML/CSS-FF6B35?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-fe8019?style=flat-square&logo=typescript&logoColor=282828" />
+<img src="https://img.shields.io/badge/JavaScript-fe8019?style=flat-square&logo=javascript&logoColor=282828" />
+<img src="https://img.shields.io/badge/Python-fe8019?style=flat-square&logo=python&logoColor=282828" />
+<img src="https://img.shields.io/badge/HTML/CSS-fe8019?style=flat-square&logo=html5&logoColor=282828" />
 
 **Frontend / Backend / Data**
 <br/>
-<img src="https://img.shields.io/badge/React-1B1464?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-1B1464?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1B1464?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-1B1464?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-1B1464?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-83a598?style=flat-square&logo=react&logoColor=282828" />
+<img src="https://img.shields.io/badge/Next.js-83a598?style=flat-square&logo=nextdotjs&logoColor=282828" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-83a598?style=flat-square&logo=tailwindcss&logoColor=282828" />
+<img src="https://img.shields.io/badge/Supabase-83a598?style=flat-square&logo=supabase&logoColor=282828" />
+<img src="https://img.shields.io/badge/PostgreSQL-83a598?style=flat-square&logo=postgresql&logoColor=282828" />
 
 **AI / ML / Automation**
 <br/>
-<img src="https://img.shields.io/badge/LangGraph-7B2FBE?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-7B2FBE?style=flat-square" />
-<img src="https://img.shields.io/badge/Tavily-7B2FBE?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-7B2FBE?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-7B2FBE?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-7B2FBE?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-7B2FBE?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-7B2FBE?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-7B2FBE?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-d3869b?style=flat-square&logo=langchain&logoColor=282828" />
+<img src="https://img.shields.io/badge/Groq-d3869b?style=flat-square" />
+<img src="https://img.shields.io/badge/Tavily-d3869b?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-d3869b?style=flat-square&logo=tensorflow&logoColor=282828" />
+<img src="https://img.shields.io/badge/Keras-d3869b?style=flat-square&logo=keras&logoColor=282828" />
+<img src="https://img.shields.io/badge/Streamlit-d3869b?style=flat-square&logo=streamlit&logoColor=282828" />
+<img src="https://img.shields.io/badge/Jupyter-d3869b?style=flat-square&logo=jupyter&logoColor=282828" />
+<img src="https://img.shields.io/badge/pandas-d3869b?style=flat-square&logo=pandas&logoColor=282828" />
+<img src="https://img.shields.io/badge/Plotly-d3869b?style=flat-square&logo=plotly&logoColor=282828" />
 
 **Protocols / Tools**
 <br/>
-<img src="https://img.shields.io/badge/MCP-FFB870?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord_API-FFB870?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Chrome_Extensions-FFB870?style=flat-square&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-FFB870?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-fabd2f?style=flat-square&logo=modelcontextprotocol&logoColor=282828" />
+<img src="https://img.shields.io/badge/Discord_API-fabd2f?style=flat-square&logo=discord&logoColor=282828" />
+<img src="https://img.shields.io/badge/Chrome_Extensions-fabd2f?style=flat-square&logo=googlechrome&logoColor=282828" />
+<img src="https://img.shields.io/badge/Tkinter-fabd2f?style=flat-square" />
 
 </div>
 
@@ -87,8 +87,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=iprashantraj&show_icons=true&title_color=FF6B35&icon_color=7B2FBE&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE&hide_border=false" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iprashantraj&layout=compact&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=iprashantraj&show_icons=true&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&bg_color=32302f&border_color=504945&ring_color=8ec07c&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iprashantraj&layout=compact&title_color=fabd2f&text_color=ebdbb2&bg_color=32302f&border_color=504945&hide_border=false" />
 </div>
 
 <br/>
@@ -114,16 +114,16 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/iprashantraj/mcp-discord-bridge"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=mcp-discord-bridge&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE" /></a></td>
-<td width="50%"><a href="https://github.com/iprashantraj/leetcode-tracker"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=leetcode-tracker&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE" /></a></td>
+<td width="50%"><a href="https://github.com/iprashantraj/mcp-discord-bridge"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=mcp-discord-bridge&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
+<td width="50%"><a href="https://github.com/iprashantraj/leetcode-tracker"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=leetcode-tracker&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/iprashantraj/AI-Research-Assistant"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=AI-Research-Assistant&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE" /></a></td>
-<td width="50%"><a href="https://github.com/iprashantraj/resume-builder"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=resume-builder&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE" /></a></td>
+<td width="50%"><a href="https://github.com/iprashantraj/AI-Research-Assistant"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=AI-Research-Assistant&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
+<td width="50%"><a href="https://github.com/iprashantraj/resume-builder"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=resume-builder&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/iprashantraj/Nutrition-Tracker"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=Nutrition-Tracker&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE" /></a></td>
-<td width="50%"><a href="https://github.com/iprashantraj/awesome-mcp-servers"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=awesome-mcp-servers&title_color=FF6B35&text_color=FFF6D5&bg_color=1B1464&border_color=7B2FBE" /></a></td>
+<td width="50%"><a href="https://github.com/iprashantraj/Nutrition-Tracker"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=Nutrition-Tracker&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
+<td width="50%"><a href="https://github.com/iprashantraj/awesome-mcp-servers"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=awesome-mcp-servers&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
 </tr>
 </table>
 </div>
@@ -179,6 +179,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=iprashantraj&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=iprashantraj&color=fe8019&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
