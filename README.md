@@ -26,12 +26,12 @@
 ## 🌆 About Me
 
 - 🎓 **3rd Year B.Tech CSE** student, based in Ranchi, Jharkhand, India
-- 🤖 Building towards **AI Automations** — agents, bots, and things that run while I sleep
+- 🤖 Building towards **AI Automations** - agents, bots, and things that run while I sleep
 - 🌀 Creative · Deep-Thinker · Passionate
-- 🌙 **Night owl** — 100% of my best code gets written after midnight
-- ⚡ Coding fuel: **just vibes** — no coffee, no energy drinks, pure focus
+- 🌙 **Night owl** - 100% of my best code gets written after midnight
+- ⚡ Coding fuel: **just vibes** - no coffee, no energy drinks, pure focus
 - 🛠️ IDE of choice: **VS Code + Claude Code**
-- 😄 The dev who makes you laugh *and* debug — serial experimenter, if it exists I've probably tried building it
+- 😄 The dev who makes you laugh *and* debug - serial experimenter, if it exists I've probably tried building it
 - 💬 **"One Day At a Time"**
 
 <br/>
