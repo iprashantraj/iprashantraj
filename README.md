@@ -78,7 +78,6 @@
 <img src="https://img.shields.io/badge/MCP-fabd2f?style=flat-square&logo=modelcontextprotocol&logoColor=282828" />
 <img src="https://img.shields.io/badge/Discord_API-fabd2f?style=flat-square&logo=discord&logoColor=282828" />
 <img src="https://img.shields.io/badge/Chrome_Extensions-fabd2f?style=flat-square&logo=googlechrome&logoColor=282828" />
-<img src="https://img.shields.io/badge/Tkinter-fabd2f?style=flat-square" />
 
 </div>
 
