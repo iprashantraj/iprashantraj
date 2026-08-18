@@ -92,22 +92,6 @@
 
 <br/>
 
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iprashantraj/iprashantraj/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iprashantraj/iprashantraj/output/snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/iprashantraj/iprashantraj/output/snake.svg" />
-</picture>
-
-<sub>generated nightly from my contribution graph — appears after the first Action run post-publish</sub>
-
-</div>
-
-<br/>
-
 ## 🎯 Featured Projects
 
 <div align="center">
