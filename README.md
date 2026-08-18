@@ -92,27 +92,6 @@
 
 <br/>
 
-## 🎯 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/iprashantraj/mcp-discord-bridge"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=mcp-discord-bridge&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
-<td width="50%"><a href="https://github.com/iprashantraj/leetcode-tracker"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=leetcode-tracker&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/iprashantraj/AI-Research-Assistant"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=AI-Research-Assistant&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
-<td width="50%"><a href="https://github.com/iprashantraj/resume-builder"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=resume-builder&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/iprashantraj/Nutrition-Tracker"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=Nutrition-Tracker&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
-<td width="50%"><a href="https://github.com/iprashantraj/awesome-mcp-servers"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=iprashantraj&repo=awesome-mcp-servers&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&bg_color=32302f&border_color=504945" /></a></td>
-</tr>
-</table>
-</div>
-
-<br/>
-
 ## 💻 LeetCode Stats
 
 <div align="center">
