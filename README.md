@@ -82,15 +82,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=iprashantraj&show_icons=true&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&bg_color=32302f&border_color=504945&ring_color=8ec07c&hide_border=false" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iprashantraj&layout=compact&title_color=fabd2f&text_color=ebdbb2&bg_color=32302f&border_color=504945&hide_border=false" />
-</div>
-
-<br/>
-
 ## 💻 LeetCode Stats
 
 <div align="center">
