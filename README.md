@@ -17,7 +17,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/iprashantraj?style=for-the-badge&color=fe8019&labelColor=504945&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/iprashantraj?style=for-the-badge&color=8ec07c&labelColor=504945&label=STARS" />
 
 </div>
 
@@ -28,7 +27,6 @@
 - 🎓 **3rd Year B.Tech CSE** student, based in Ranchi, Jharkhand, India
 - 🤖 Building towards **AI Automations** - agents, bots, and things that run while I sleep
 - 🌀 Creative · Deep-Thinker · Passionate
-- 🌙 **Night owl** - 100% of my best code gets written after midnight
 - 🛠️ IDE of choice: **VS Code + Claude Code**
 - 😄 serial experimenter
 - 💬 **"One Day At a Time"**
