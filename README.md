@@ -35,60 +35,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,tailwind,supabase,postgres,tensorflow,discord,git,vscode&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-fe8019?style=flat-square&logo=typescript&logoColor=282828" />
-<img src="https://img.shields.io/badge/JavaScript-fe8019?style=flat-square&logo=javascript&logoColor=282828" />
-<img src="https://img.shields.io/badge/Python-fe8019?style=flat-square&logo=python&logoColor=282828" />
-<img src="https://img.shields.io/badge/HTML/CSS-fe8019?style=flat-square&logo=html5&logoColor=282828" />
-
-**Frontend / Backend / Data**
-<br/>
-<img src="https://img.shields.io/badge/React-83a598?style=flat-square&logo=react&logoColor=282828" />
-<img src="https://img.shields.io/badge/Next.js-83a598?style=flat-square&logo=nextdotjs&logoColor=282828" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-83a598?style=flat-square&logo=tailwindcss&logoColor=282828" />
-<img src="https://img.shields.io/badge/Supabase-83a598?style=flat-square&logo=supabase&logoColor=282828" />
-<img src="https://img.shields.io/badge/PostgreSQL-83a598?style=flat-square&logo=postgresql&logoColor=282828" />
-
-**AI / ML / Automation**
-<br/>
-<img src="https://img.shields.io/badge/LangGraph-d3869b?style=flat-square&logo=langchain&logoColor=282828" />
-<img src="https://img.shields.io/badge/Groq-d3869b?style=flat-square" />
-<img src="https://img.shields.io/badge/Tavily-d3869b?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-d3869b?style=flat-square&logo=tensorflow&logoColor=282828" />
-<img src="https://img.shields.io/badge/Keras-d3869b?style=flat-square&logo=keras&logoColor=282828" />
-<img src="https://img.shields.io/badge/Streamlit-d3869b?style=flat-square&logo=streamlit&logoColor=282828" />
-<img src="https://img.shields.io/badge/Jupyter-d3869b?style=flat-square&logo=jupyter&logoColor=282828" />
-<img src="https://img.shields.io/badge/pandas-d3869b?style=flat-square&logo=pandas&logoColor=282828" />
-<img src="https://img.shields.io/badge/Plotly-d3869b?style=flat-square&logo=plotly&logoColor=282828" />
-
-**Protocols / Tools**
-<br/>
-<img src="https://img.shields.io/badge/MCP-fabd2f?style=flat-square&logo=modelcontextprotocol&logoColor=282828" />
-<img src="https://img.shields.io/badge/Discord_API-fabd2f?style=flat-square&logo=discord&logoColor=282828" />
-<img src="https://img.shields.io/badge/Chrome_Extensions-fabd2f?style=flat-square&logo=googlechrome&logoColor=282828" />
-
-</div>
-
-<br/>
-
-## 💻 LeetCode Stats
-
-<div align="center">
-<a href="https://leetcode.com/iprashantraj"><img src="https://leetcard.jacoblin.cool/iprashantraj?theme=dark&font=Space%20Mono&ext=heatmap" /></a>
-</div>
-
-<br/>
 
 ## 🎸 Beyond the Code
 
